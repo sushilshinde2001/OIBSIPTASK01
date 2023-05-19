@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UnitConersion</string>
+    <string-array name="Spinner_Array1">
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+
+    </string-array>
+    <string-array name="Spinner_Array3">
+    <item>Length</item>
+    <item>Mass</item>
+
+</string-array>
+</resources>
